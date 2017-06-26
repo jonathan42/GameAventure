@@ -37,6 +37,7 @@ target/
 .project
 
 # NetBeans specific
+nbproject/
 nbproject/private/
 build/
 nbbuild/
@@ -44,7 +45,7 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
-manisfest.mf
+manifest.mf
 build.xml
 
 
